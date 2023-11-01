@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Rumah",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 106.640531059981186, -6.259458142862439 ], [ 106.643421544294171, -6.25950502576446 ], [ 106.643327216134793, -6.261085646855729 ], [ 106.640517584529832, -6.260998578869263 ], [ 106.640531059981186, -6.259458142862439 ] ] ] ] } }
+]
+}
